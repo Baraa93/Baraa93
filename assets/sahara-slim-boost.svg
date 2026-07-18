@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Slim Boost 7 Greens hero image</title>
+  <desc id="desc">Packaging for a plant based supplement with a measuring tape and leaves on a neutral background.</desc>
+  <defs>
+    <linearGradient id="box" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6b38b1" />
+      <stop offset="60%" stop-color="#6f3ebd" />
+      <stop offset="100%" stop-color="#1fb15f" />
+    </linearGradient>
+    <linearGradient id="shadow" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#000" stop-opacity="0" />
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="30" />
+    </filter>
+  </defs>
+  <rect width="1200" height="1200" fill="#ede5d9" />
+  <rect x="650" y="800" width="400" height="220" rx="70" ry="70" fill="#d6c6aa" filter="url(#soft)" opacity="0.6" />
+  <rect x="420" y="240" width="420" height="720" rx="24" fill="url(#box)" />
+  <rect x="430" y="250" width="400" height="700" rx="20" fill="#6d3ab5" />
+  <rect x="430" y="250" width="400" height="700" rx="20" fill="url(#box)" opacity="0.32" />
+  <rect x="430" y="250" width="400" height="90" rx="20" fill="#6b38b1" />
+  <text x="630" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" fill="#ffffff" font-weight="600">SlimBoost</text>
+  <text x="630" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#f2f2f2" letter-spacing="3">BY SAHARA STORE</text>
+  <rect x="430" y="420" width="400" height="2" fill="#d2c6e2" />
+  <text x="630" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="80" fill="#6b38b1" font-weight="700">7 GREENS</text>
+  <text x="630" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#5c3875" font-weight="600">PLANT BASED COMPLEX</text>
+  <text x="630" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1f803e" font-weight="600">SPIRULINA · MORINGA ·</text>
+  <text x="630" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1f803e" font-weight="600">ALFALFA · SPINACH</text>
+  <text x="630" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#1f803e" font-weight="600">DANDELION LEAVES · BURDOCK</text>
+  <text x="630" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#6b38b1" font-weight="700">KETO FRIENDLY WEIGHT MANAGEMENT</text>
+  <text x="630" y="700" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#6b38b1" font-weight="700">&amp; GENERAL WELLNESS SUPPORT</text>
+  <text x="630" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#6b38b1" font-weight="700">60 CAPSULES</text>
+  <ellipse cx="320" cy="460" rx="120" ry="160" fill="#2f8848" opacity="0.6" filter="url(#soft)" />
+  <ellipse cx="960" cy="460" rx="120" ry="160" fill="#2f8848" opacity="0.6" filter="url(#soft)" />
+  <path d="M260 780 C 320 720 420 700 520 740" fill="none" stroke="#e0d2b9" stroke-width="16" />
+  <path d="M150 920 C 320 840 520 880 640 920" fill="none" stroke="#e0d2b9" stroke-width="16" />
+  <path d="M770 880 C 920 820 1040 820 1140 880" fill="none" stroke="#e0d2b9" stroke-width="16" />
+  <g transform="translate(720 840) rotate(12)">
+    <rect x="0" y="0" width="260" height="60" rx="28" fill="#0f9360" />
+    <text x="130" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#ffffff" font-weight="700">شحن سريع وخدمة مميزة</text>
+  </g>
+  <g transform="translate(420 900) rotate(-10)">
+    <rect x="0" y="0" width="240" height="56" rx="28" fill="#0f9360" />
+    <text x="120" y="36" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" font-weight="700">تركيبة نباتية</text>
+  </g>
+  <g transform="translate(240 980) rotate(-14)">
+    <rect x="0" y="0" width="280" height="60" rx="28" fill="#0f9360" />
+    <text x="140" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#ffffff" font-weight="700">مثبتة علمياً لدعم الكيتو</text>
+  </g>
+  <g transform="translate(760 940) rotate(14)">
+    <rect x="0" y="0" width="240" height="60" rx="28" fill="#0f9360" />
+    <text x="120" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" font-weight="700">سعر خاص اليوم</text>
+  </g>
+  <path d="M170 880 C 220 820 320 810 420 830" fill="none" stroke="#1c9f7c" stroke-width="12" stroke-linecap="round" opacity="0.6" />
+  <path d="M820 820 C 900 780 1040 770 1100 800" fill="none" stroke="#1c9f7c" stroke-width="12" stroke-linecap="round" opacity="0.6" />
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="70" fill="#1c9f7c" font-weight="700">SAHARA</text>
+  <text x="600" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#1c9f7c" font-weight="700">STORE</text>
+</svg>
